@@ -1,5 +1,9 @@
 package com.java.interview;
-
+/**
+ * 
+ * @author suresh-rathore
+ *
+ */
 public class SecondHighestNumberInArray {
 	public static void main (String []args) {
 		int arr[] = {14,46,47,94,52,86,36,94,89};
